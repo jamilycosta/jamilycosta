@@ -1,4 +1,4 @@
-<h2>Olá! Eu sou a Jamily Costa😊</h2>
+<h2>Olá! Eu sou a Jamily😊</h2>
 
 <div align="center">
   <a href="https://github.com/jamilycosta">
@@ -8,7 +8,7 @@
 
 ##
 
-<h3>📌Ferramentas em Estudo:<h3>
+<h3>📌Tecnologias em Estudo:<h3>
 <div style="display: inline_block">
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
