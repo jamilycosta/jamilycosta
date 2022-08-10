@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/jamilycosta">
-  <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=jamilycosta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilycosta&layout=compact&langs_count=7&theme=algolia"/>
+  <img width="480em" height="180em" src="https://github-readme-stats.vercel.app/api?username=jamilycosta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="350em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilycosta&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ##
