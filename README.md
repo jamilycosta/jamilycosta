@@ -25,6 +25,6 @@
 
 <h3>📌Redes Sociais:<h3>
 <div style="display: inline_block">
-  <a href="https://instagram.com/jamilycosta.r" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="http://www.linkedin.com/in/jamily-costa-ribeiro-618a70237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/jamilycosta.r" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="http://www.linkedin.com/in/jamily-costa-ribeiro-618a70237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
