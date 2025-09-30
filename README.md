@@ -1,4 +1,4 @@
-<h2 align="center">👋 Olá, eu sou a Jamily 😊</h2>
+<h2 align="center">Olá, eu sou a Jamily 😊</h2>
 
 <p align="center">
 Desenvolvedora Web com foco em <b>aplicações modernas</b>.  
