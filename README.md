@@ -1,10 +1,10 @@
 <h2 align="center">Olá, eu sou a Jamily 😊</h2>
 
 <p align="center">
-Desenvolvedora Web com foco em <b>aplicações modernas</b>.  
+Desenvolvedora Web com foco em aplicações modernas.  
 No <b>Back-End</b>, atuo principalmente com <b>Django Framework</b>, <b>Docker</b> e <b>PostgreSQL</b>.  
 No <b>Front-End</b>, já desenvolvi projetos com <b>Nuxt.js/Vue</b> e <b>Next.js/React</b>.  
-Atualmente, também também buscar aprofundar meus conhecimentos em <b>Ciência de Dados</b>, explorando <b>Python</b>, <b>SQL</b>, <b>Power BI</b>, além de aplicações de <b>Machine Learning (ML)</b> e <b>Large Language Models (LLMs)</b>.  
+Atualmente, também busco aprofundar meus conhecimentos em <b>Ciência de Dados</b>, explorando <b>Python</b>, <b>SQL</b>, <b>Power BI</b>, além de aplicações de <b>Machine Learning (ML)</b> e <b>Large Language Models (LLMs)</b>.  
 </p>
 
 ##
