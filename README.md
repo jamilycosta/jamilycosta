@@ -49,7 +49,7 @@ Atualmente, também busco aprofundar meus conhecimentos em <b>Ciência de Dados<
   <a href="https://instagram.com/jamilycosta.r" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="http://www.linkedin.com/in/jamily-costa-ribeiro-618a70237" target="_blank">
+  <a href="http://www.linkedin.com/in/jamily-costa-ribeiro" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
