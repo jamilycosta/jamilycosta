@@ -9,15 +9,6 @@ Atualmente, também busco aprofundar meus conhecimentos em <b>Ciência de Dados<
 
 ##
 
-<div align="center">
-  <a href="https://github.com/jamilycosta">
-    <img width="480em" height="180em" src="https://github-readme-stats.vercel.app/api?username=jamilycosta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br"/>
-    <img width="350em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilycosta&layout=compact&langs_count=7&theme=algolia&locale=pt-br"/>
-  </a>
-</div>
-
-##
-
 <h3>📌 Tecnologias em Estudo</h3>
 <div style="display: inline_block"><br>
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
